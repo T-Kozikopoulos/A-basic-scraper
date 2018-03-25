@@ -1,2 +1,3 @@
 # A-basic-scraper
-Scraper for yellowpages.com, looks for coffee shops in LA.
+
+A basic scraper for yellowpages.com, with comments explaining every step of the process.
